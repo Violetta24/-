@@ -7,27 +7,14 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string[] array1 = new string[11] {"1234", "2", "hello", "world", ":-)","1567", "-2", "computer science", "Russia", "Denmark","Kazan"};
-string[] array2 = new string[array1.Length];
-void SecondArrayWithIF(string[] array1, string[] array2)
+   Console.Clear();
+
+string[] array = { "1234", "-2", "computer science",};
+string[] newarr = new string[array.Length];
+
+for (int i = 0; i < array.Length; i++)
 {
-    int count = 0;
-    for (int i = 0; i < array1.Length; i++)
-    {
-    if(array1[i].Length <= 3)
-        {
-        array2[count] = array1[i];
-        count++;
-        }
-    }
+    if (array[i].Length <= 3)
+        newarr[i] = array[i];
+    Console.Write($"{newarr[i]} ");
 }
-void PrintArray(string[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
-SecondArrayWithIF(array1, array2);
-PrintArray(array2);
