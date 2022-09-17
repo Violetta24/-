@@ -4,28 +4,14 @@
 //  лучше обойтись исключительно массивами.
 
 
+Console.Clear();
 
-string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
-string[] array2 = new string[array1.Length];
-void PrintArray(string[] array1, string[] array2)
+string[] array = { "hello", "2", "world", ":-)" };
+string[] newarr = new string[array.Length];
+
+for (int i = 0; i < array.Length; i++)
 {
-    int count = 0;
-    for (int i = 0; i < array1.Length; i++)
-    {
-    if(array1[i].Length <= 3)
-        {
-        array2[count] = array1[i];
-        count++;
-        }
-    }
+    if (array[i].Length <= 3)
+        newarr[i] = array[i];
+    Console.Write($"{newarr[i]} ");
 }
-void FillArray(string[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
-PrintArray(array1, array2);
-FillArray(array2);
