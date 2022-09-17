@@ -1,0 +1,15 @@
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\дз.exe
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\дз.deps.json
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\дз.runtimeconfig.json
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\дз.dll
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\ref\дз.dll
+C:\Users\Виола\Desktop\проверочная работа\дз\bin\Debug\net6.0\дз.pdb
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.csproj.AssemblyReference.cache
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.AssemblyInfoInputs.cache
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.AssemblyInfo.cs
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.csproj.CoreCompileInputs.cache
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.dll
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\ref\дз.dll
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.pdb
+C:\Users\Виола\Desktop\проверочная работа\дз\obj\Debug\net6.0\дз.genruntimeconfig.cache
